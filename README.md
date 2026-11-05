@@ -21,6 +21,8 @@
 
 ![JavaScript, TypeScript, React, Vue, Python, C, Redis and Vercel](https://skillicons.dev/icons?i=js,ts,react,vue,python,c,redis,vercel)
 
+Vercel · Redis (Claude, Codex, Astra, Grok Bot)
+
 ## Featured
 
 | Project | What it does |
