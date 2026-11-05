@@ -17,6 +17,12 @@
 - 🪔 Upcoming business philosophist. In SF for hackathons and founders, Nov 6–15, 2026. [Let's meet](https://corvus.gent/sf)
 - 🥋 Brazilian jiu-jitsu · learning Chinese
 
+## Stack
+
+<p align="center">
+  <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="40" height="40" alt="Vercel" title="Vercel"></a>&emsp;<a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/000000/ffffff" width="40" height="40" alt="Redis" title="Redis"></a>&emsp;<a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude/000000/ffffff" width="40" height="40" alt="Claude" title="Claude"></a>&emsp;<a href="https://openai.com/codex/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/codex-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/logos/codex.svg"><img src="assets/logos/codex.svg" width="40" height="40" alt="Codex" title="Codex"></picture></a>&emsp;<a href="https://grok.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/grok-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/logos/grok.svg"><img src="assets/logos/grok.svg" width="40" height="40" alt="Grok" title="Grok"></picture></a>
+</p>
+
 ## Featured
 
 | Project | What it does |
