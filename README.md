@@ -28,6 +28,7 @@ Vercel · Redis (Claude, Codex, Astra, Grok Bot)
 | Project | What it does |
 | --- | --- |
 | [loading-website](https://github.com/Corvus-gent/loading-website) | The code behind [corvus.gent](https://corvus.gent), from daily games to a public uptime monitor. |
+| PartyCrasher 3000 · [CV](https://corvus.gent/cv) | Our UGent team programmed a TurtleBot with Python and ROS 2 to drive itself, dance salsa and launch M&M’s. |
 | [Dwengo-1](https://github.com/SELab-2/Dwengo-1) | Our SELab-2 team built a platform where teachers assign learning paths and follow student progress. |
 | [FlowSOM](https://github.com/Gabriellvl/FlowSOM) | Benchmarks for clustering flow cytometry data with the Python FlowSOM implementation. |
 | [oxyvitale-402](https://github.com/Corvus-gent/oxyvitale-402) | A four-language payment status page for the Oxy-Vitale client site. |
