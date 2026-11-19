@@ -1,11 +1,19 @@
-<h1 align="center">Hey, I'm Gabriel 👋</h1>
-<p align="center">CEO &amp; General at Corvus. One-man army building the coolest community in the world from San Francisco.</p>
-<p align="center"><em>🪔 I am looking for a human. — Diogenes</em></p>
+<a href="https://corvus.gent/logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/corvus-flight-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/corvus-flight-light.gif">
+    <img align="right" src="assets/corvus-flight-light.gif" width="144" alt="Corvus in flight">
+  </picture>
+</a>
+
+<h1>Hey, I'm Gabriel 👋</h1>
+<p>CEO &amp; General at Corvus. One-man army building the coolest community in the world from San Francisco.</p>
+<p><em>🪔 I am looking for a human. — Diogenes</em></p>
 [Website](https://corvus.gent) · [LinkedIn](https://www.linkedin.com/in/francisco-gabriel-van-langenhove) · [X](https://x.com/gabe_maxxing) · [Email](mailto:gabriel@corvus.gent)
 
 ## What I’m building
 
-<a href="https://corvus.gent/logo"><img src="assets/corvus-wing-flight.gif" width="24" alt="Corvus Logo Lab"></a> **[Corvus](https://corvus.gent)** · A community for people who like building things together. Play the [games](https://corvus.gent/games/), explore the [community music ranking](https://corvus.gent/music/), or [join the Legion](https://corvus.gent/legion/).
+**[Corvus](https://corvus.gent)** · A community for people who like building things together. Play the [games](https://corvus.gent/games/), explore the [community music ranking](https://corvus.gent/music/), or [join the Legion](https://corvus.gent/legion/).
 
 ### Corvus development activity
 
