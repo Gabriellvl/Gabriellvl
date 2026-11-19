@@ -9,9 +9,17 @@
 
 Pick a project, open an issue for a bigger idea or fork it and send a focused pull request. Tell me what you changed, why it matters and how you tested it. I review PRs after the automated checks and either merge them or ask for changes.
 
-## 📈 What shipped today?
+## Corvus development activity
 
-[Today](https://corvus.gent/built) · [Yesterday](https://corvus.gent/built?ago=1) · [Two days ago](https://corvus.gent/built?ago=2) · [Browse the full history →](https://corvus.gent/built#shipping)
+Git activity on Corvus’s main branch, including contributions. Snapshot from **19 Nov 2026 at 20:19 Brussels time**. The last day in each row is partial.
+
+| Period | Commits | Lines added | Lines removed |
+| --- | ---: | ---: | ---: |
+| 19 Nov 2026 | 12 | 1,378 | 103 |
+| 7 days ending 19 Nov 2026 | 108 | 97,795 | 3,887 |
+| 30 days ending 19 Nov 2026 | 243 | 128,954 | 7,725 |
+
+[Daily chart](https://corvus.gent/built#shipping) · [Weekly chart](https://corvus.gent/built?period=week#shipping) · [Monthly chart](https://corvus.gent/built?period=month#shipping)
 
 ## 🐦‍⬛ Currently building
 
