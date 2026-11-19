@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Gabriel Van Langenhove — carrying a lamp through San Francisco, looking for honest builders. A raven watches the flame.">
 
 <h1 align="center">Hey, I'm Gabriel 👋</h1>
-<p align="center">CEO &amp; General at Corvus. One-man army building the coolest community in the world from San Francisco. Previously Go-to-Market Engineer at Pidgy.</p>
+<p align="center">CEO &amp; General at Corvus. One-man army building the coolest community in the world from San Francisco.</p>
 <p align="center"><em>🪔 I am looking for a human. — Diogenes</em></p>
 <p align="center">
   <a href="https://corvus.gent"><img alt="Website" src="https://img.shields.io/badge/Website-181818?style=for-the-badge"></a>
