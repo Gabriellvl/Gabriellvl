@@ -3,13 +3,11 @@
 <p align="center"><em>🪔 I am looking for a human. — Diogenes</em></p>
 [Website](https://corvus.gent) · [LinkedIn](https://www.linkedin.com/in/francisco-gabriel-van-langenhove) · [X](https://x.com/gabe_maxxing) · [Email](mailto:gabriel@corvus.gent)
 
-## 🛠️ Build with me
+## What I’m building
 
-**[Find projects open for contributions →](https://github.com/search?q=user%3AGabriellvl+topic%3Aopen-for-contributions+archived%3Afalse&type=repositories)**
+<a href="https://corvus.gent/logo"><img src="assets/corvus-wing-flight.gif" width="24" alt="Corvus Logo Lab"></a> **[Corvus](https://corvus.gent)** · A community for people who like building things together. Play the [games](https://corvus.gent/games/), explore the [community music ranking](https://corvus.gent/music/), or [join the Legion](https://corvus.gent/legion/).
 
-Pick a project, open an issue for a bigger idea or fork it and send a focused pull request. Tell me what you changed, why it matters and how you tested it. I review PRs after the automated checks and either merge them or ask for changes.
-
-## Corvus development activity
+### Corvus development activity
 
 Git activity on Corvus’s main branch, including contributions. Snapshot from **19 Nov 2026 at 20:19 Brussels time**. The last day in each row is partial.
 
@@ -21,21 +19,17 @@ Git activity on Corvus’s main branch, including contributions. Snapshot from *
 
 [Daily chart](https://corvus.gent/built#shipping) · [Weekly chart](https://corvus.gent/built?period=week#shipping) · [Monthly chart](https://corvus.gent/built?period=month#shipping)
 
-## 🐦‍⬛ Currently building
-
-- <a href="https://corvus.gent/logo"><img src="assets/corvus-wing-flight.gif" width="24" alt="Corvus Logo Lab"></a> **[Corvus](https://corvus.gent)** · Daily games, a community music ranking and public stats. [Follow the code](https://github.com/Corvus-gent/loading-website/commits/main/).
-- <img src="assets/whitney.png" width="24" alt="Whitney, the stayawake watchdog"> **[stayawake](https://github.com/Gabriellvl/stayawake)** · A small macOS command-line switch for sleep. [Releases](https://github.com/Gabriellvl/stayawake/releases) · [Pull requests](https://github.com/Gabriellvl/stayawake/pulls)
-- **[nightjar-mcp](https://github.com/Gabriellvl/nightjar-mcp)** · A small, hostable MCP server for Corvus. [Activity](https://github.com/Gabriellvl/nightjar-mcp/activity) · [Pull requests](https://github.com/Gabriellvl/nightjar-mcp/pulls)
-
 ## Open source
 
-| Project | What it does | Follow or contribute |
-| --- | --- | --- |
-| [stayawake](https://github.com/Gabriellvl/stayawake) | macOS CLI and packaging. | [Guide](https://github.com/Gabriellvl/stayawake/blob/main/CONTRIBUTING.md) · [Issues](https://github.com/Gabriellvl/stayawake/issues) |
-| [nightjar-mcp](https://github.com/Gabriellvl/nightjar-mcp) | MCP over Streamable HTTP. | [Guide](https://github.com/Gabriellvl/nightjar-mcp/blob/main/CONTRIBUTING.md) · [Issues](https://github.com/Gabriellvl/nightjar-mcp/issues) |
-| [FlowSOM](https://github.com/Gabriellvl/FlowSOM) | Python and Numba benchmarks for clustering flow cytometry data. | [Guide](https://github.com/Gabriellvl/FlowSOM/blob/main/CONTRIBUTING.md) · [Issues](https://github.com/Gabriellvl/FlowSOM/issues) |
+Pick a project below to try or contribute to. For a bigger idea, open an issue first. In a pull request, tell me what changed, why it matters, and how you tested it.
 
-[Recent GitHub activity](https://github.com/Gabriellvl?tab=overview#user-activity-overview) · [All repositories](https://github.com/Gabriellvl?tab=repositories)
+| Project | What it does | Try or contribute |
+| --- | --- | --- |
+| <img src="assets/whitney.png" width="24" alt="Whitney, the stayawake watchdog"> [stayawake](https://github.com/Gabriellvl/stayawake) | A command-line switch that keeps your Mac awake during long jobs. | [Install](https://github.com/Gabriellvl/stayawake/releases/latest) · [Contribute](https://github.com/Gabriellvl/stayawake/blob/main/CONTRIBUTING.md) |
+| [nightjar-mcp](https://github.com/Gabriellvl/nightjar-mcp) | A small MCP server you can host yourself. | [Contribute](https://github.com/Gabriellvl/nightjar-mcp/blob/main/CONTRIBUTING.md) |
+| [FlowSOM](https://github.com/Gabriellvl/FlowSOM) | Python and Numba benchmarks for clustering flow cytometry data. | [Contribute](https://github.com/Gabriellvl/FlowSOM/blob/main/CONTRIBUTING.md) |
+
+[More projects open for contributions](https://github.com/search?q=user%3AGabriellvl+topic%3Aopen-for-contributions+archived%3Afalse&type=repositories) · [All repositories](https://github.com/Gabriellvl?tab=repositories)
 
 ## Stack
 
