@@ -16,6 +16,12 @@
 
 Pick a project, open an issue for a bigger idea or fork it and send a focused pull request. Tell me what you changed, why it matters and how you tested it. I review PRs after the automated checks and either merge them or ask for changes.
 
+## 📈 What shipped today?
+
+[![Corvus daily ship log. Latest lines added, commits on main, ripples and a seven-day chart.](https://corvus.gent/api/build/shipping.png)](https://corvus.gent/built)
+
+[Today](https://corvus.gent/built) · [Yesterday](https://corvus.gent/built?ago=1) · [Two days ago](https://corvus.gent/built?ago=2) · [Browse the full history →](https://corvus.gent/built#shipping)
+
 ## 🐦‍⬛ Currently building
 
 - **[Corvus](https://corvus.gent)** · Daily games, a community music ranking and public stats. [Follow the code](https://github.com/Corvus-gent/loading-website/commits/main/).
