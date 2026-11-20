@@ -27,6 +27,16 @@ Git activity on Corvus’s main branch, including contributions. Snapshot from *
 
 [Daily chart](https://corvus.gent/built#shipping) · [Weekly chart](https://corvus.gent/built?period=week#shipping) · [Monthly chart](https://corvus.gent/built?period=month#shipping)
 
+## Coming soon · Compound × Corvus 🎬
+
+I built my own editing skills for Compound — from finding the moment to shaping the cut, captions and platform-specific edits, with a dedicated jiu-jitsu breakdown workflow.
+
+I used my own skill for my new Instagram: **[@gabinho_breakdows](https://www.instagram.com/gabinho_breakdows/)**. That’s where I’m putting the breakdown workflow into practice.
+
+**Private for now. Open-source release coming soon.** Follow along here for the public release.
+
+[See the workflow & scorecard →](https://corvus.gent/compound/impact/#my-editing-skill) · [Watch the breakdowns on Instagram →](https://www.instagram.com/gabinho_breakdows/)
+
 ## Open source
 
 Pick a project below to try or contribute to. For a bigger idea, open an issue first. In a pull request, tell me what changed, why it matters, and how you tested it.
